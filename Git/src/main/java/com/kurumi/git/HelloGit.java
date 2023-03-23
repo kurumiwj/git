@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("Update!");
         System.out.println("创建分支！");
         System.out.println("这是主干！");
+        System.out.println("这是分支！");
     }
 }
